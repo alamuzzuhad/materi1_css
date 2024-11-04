@@ -1,0 +1,32 @@
+body {
+    font-family: arial;
+    background-color: aquamarine;
+    background-image: url(gambar.jpg);
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+
+h1 {
+    font-size: 150px;
+    text-align: center;
+    color: purple;
+    font-variant: small-caps;
+    font-style: italic;
+    text-decoration: underline;
+    font-weight: normal;
+}
+
+p {
+    color: grey;
+    line-height: 1.6em;
+    text-transform: capitalize;
+    font-family: Georgia, serif;
+    line-height: 50px;
+    text-indent: 100px;
+    word-spacing: 10px;
+    letter-spacing: 5px;
+}
+
+a {
+    text-decoration: line-through;
+}
